@@ -15,6 +15,7 @@ using Bracket or Notepad+.
 
 # Contributing: 
   I developed the following classes:
+    
     Door extending SWEntity (starWarsJava/starwars/entities/)
     Grenade extending SWEntity (starWarsJava/starwars/entities/)
     Lightsaber extending SWEntity (starWarsJava/starwars/entities/)
